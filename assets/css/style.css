@@ -120,12 +120,8 @@ h3, h2 {
 }
 
 .main-section {
-  float: left;
-  width: 100%;
-  max-width: 960px;
-  padding: 30px;
-  margin: 0 0 40px;
   background: #ffffff;
+  padding: 30px;
   border: 1px solid #dddddd;
 }
 
